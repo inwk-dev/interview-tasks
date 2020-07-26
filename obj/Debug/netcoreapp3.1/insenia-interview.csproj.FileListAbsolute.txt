@@ -1,0 +1,15 @@
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview.deps.json
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview.runtimeconfig.json
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview.runtimeconfig.dev.json
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview.dll
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/insenia-interview.pdb
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.csprojAssemblyReference.cache
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.AssemblyInfoInputs.cache
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.AssemblyInfo.cs
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.csproj.CoreCompileInputs.cache
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.dll
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.pdb
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.genruntimeconfig.cache
+/home/i/Projects/insenia-interview/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/i/Projects/insenia-interview/obj/Debug/netcoreapp3.1/insenia-interview.csproj.CopyComplete

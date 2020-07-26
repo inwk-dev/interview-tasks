@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wN3gnGxnYC/DjYjDvrUGVA1JRRHb1QL//SxpHN6cryvqVRHkVIvWfuix7SjkT7tcCmz73fdOO8spIGk42WrTww==",
+  "success": true,
+  "projectFilePath": "/home/i/Projects/insenia-interview/insenia-interview.csproj",
+  "expectedPackageFiles": [
+    "/home/i/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
